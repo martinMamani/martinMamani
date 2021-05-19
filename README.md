@@ -1,17 +1,39 @@
 ### Hi there 👋Martin👋
 
-<!--
-**martinMamani/martinMamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Format: ![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fundaciontelefonica.com.ar%2Fnoticias%2Fmooc-programacion-con-javascript-4%2F&psig=AOvVaw2YorQSHEfLmZmbfj28QcUF&ust=1621438880527000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLC49ODI0_ACFQAAAAAdAAAAABAD)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS, SQL, Java],
+   technologies: {
+      frontEnd: {
+         js: ["React","Redux"],
+         css: ["Bootstrap"],
+         others:["Axios","Hooks","Promises","Git"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+      },
+      databases: ["posgreSQL","SQLite"]
+   },
+   editors: [ "VSCode", "Eclipse" ],
+   currentOccupation: ["last year student, open for job opportunities"]
+};
+```
+</br></br>
+<h2>💻 Some stats 💻</h2>
+
+![MartinMamani github stats](https://github-readme-stats.vercel.app/api?username=martinMamani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+---
+
+[![Linkedin: martinMamani](https://img.shields.io/badge/-martinPabloMamani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-mamani/)](https://www.linkedin.com/in/martin-mamani/)
+[![GitHub martinMamani](https://img.shields.io/github/followers/martinMamani?label=follow&style=social)](https://github.com/martinMamani)
+
+
+
